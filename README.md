@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkwamboka" alt="vkwamboka" /></a> </p>
 
-- 🔭 I’m currently working on **a betting website**
+- 🔭 I’m currently working on **a farm management system**
 
 - 🌱 I’m currently learning **Mongodb and React Native**
 
