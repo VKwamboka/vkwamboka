@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Verah Kwamboka</h1>
-<h3 align="center">A passionate full-stack developer from Nairobi Kenya.</h3>
+<h3 align="center">A passionate full-stack and mobile developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkwamboka&label=Profile%20views&color=0e75b6&style=flat" alt="vkwamboka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkwamboka" alt="vkwamboka" /></a> </p>
 
-- 🔭 I’m currently working on **a farm management system**
+- 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning **Mongodb and React Native**
+- 🌱 I’m currently learning **Python and React Native**
 
 - 👨‍💻 All of my projects are available at [https://vkwamboka.github.io/My_portfolio/](https://vkwamboka.github.io/My_portfolio/)
 
