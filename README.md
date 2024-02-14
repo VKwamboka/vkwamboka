@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and React Native**
 
-- 👨‍💻 All of my projects are available at [https://vkwamboka.github.io/My_portfolio/](https://vkwamboka.github.io/My_portfolio/)
+- 👨‍💻 All of my projects are available at [https://kwamboka-verah.netlify.app/](https://kwamboka-verah.netlify.app/)
 
 - 💬 Ask me about **react, ruby on rails and Sinatra**
 
