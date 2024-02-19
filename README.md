@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Python and React Native**
 
 - 👨‍💻 All of my projects are available at [https://kwamboka-verah.netlify.app/](https://kwamboka-verah.netlify.app/)
+  
+- 📫 Find my published articles at [https://medium.com/@verahnyagaka101](https://medium.com/@verahnyagaka101)
 
 - 💬 Ask me about **react, ruby on rails and Sinatra**
 
